@@ -94,17 +94,16 @@
     <div class="container">
         <header>
             <h1>Badal Kodape</h1>
-            <h2>DevOps Engineer</h2>
+            <h2>DevOps Engineer | CKA Certified</h2>
             <div class="contact-info">
                 <p>Phone: +91 9763909863</p>
                 <p>Email: <a href="mailto:badalkodape@gmail.com">badalkodape@gmail.com</a></p>
                 <p>LinkedIn: <a href="https://www.linkedin.com/in/badal-k-b1a739208/" target="_blank">linkedin.com/in/badal-k-b1a739208</a></p>
-                <p>Website: <a href="https://badaldevops.online" target="_blank">badaldevops.online</a></p>
+                <p>Website: <a href="https://badaldevops.online" target="_blank">www.badaldevops.online</a></p>
             </div>
         </header>
         <section class="summary">
-            <h3>Summary</h3>
-            <p>Seasoned DevOps/AWS Engineer with a passion for leveraging cutting-edge technologies to drive operational excellence. Proven track record of leading cross-functional teams to achieve operational efficiency and reliability. Committed to continuous learning and professional growth in the rapidly evolving field of cloud computing.</p>
+            <p>Seasoned DevOps / AWS Engineer with a passion for leveraging cutting-edge technologies to drive operational excellence. Committed to continuous learning and professional growth in the rapidly evolving field of cloud computing.</p>
         </section>
         <section class="skills">
             <h3>Technical Skills</h3>
@@ -126,7 +125,7 @@
             <h3>Experience</h3>
             <ul>
                 <li>
-                    <strong>2022-03 - Current</strong> - R & D Operations Manager (DevOps Engineer) <br>
+                    <strong>2022-03 - Current</strong> - R & D Operations Manager (DevOps / SRE Engineer) <br>
                     Dassault Systèmes Solutions Lab Pvt. Ltd., Pune, India <br>
                     <ul>
                         <li>Leadership Skills: Led teams of up to 6 members, fostering collaboration and achieving project goals</li>
