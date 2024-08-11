@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Badal Kodape - DevOps Engineer</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            max-width: 900px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        header {
+            text-align: center;
+            border-bottom: 3px solid #003366; /* Navy Blue */
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+            color: #003366; /* Navy Blue */
+        }
+        header h2 {
+            margin: 0;
+            font-size: 1.5em;
+            color: #003366; /* Navy Blue */
+            font-weight: 300;
+        }
+        .contact-info {
+            text-align: center;
+            font-size: 1.1em;
+            margin-top: 10px;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .contact-info a {
+            color: #003366; /* Navy Blue */
+            text-decoration: none;
+        }
+        .contact-info a:hover {
+            text-decoration: underline;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+        h3 {
+            color: #003366; /* Navy Blue */
+            border-bottom: 2px solid #b71540; /* Maroon */
+            padding-bottom: 5px;
+            margin-bottom: 10px;
+        }
+        .skills, .experience, .education {
+            margin-bottom: 20px;
+        }
+        .skills ul, .experience ul, .education ul {
+            list-style: none;
+            padding: 0;
+        }
+        .skills li, .experience li, .education li {
+            background: #e0e0e0;
+            border-left: 5px solid #003366; /* Navy Blue */
+            padding: 10px;
+            margin-bottom: 5px;
+            border-radius: 4px;
+        }
+        .experience li, .education li {
+            background: #f5f5f5;
+            border-left: 5px solid #003366; /* Navy Blue */
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background: #003366; /* Navy Blue */
+            color: #fff;
+            margin-top: 20px;
+            border-radius: 0 0 8px 8px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Badal Kodape</h1>
+            <h2>DevOps Engineer</h2>
+            <div class="contact-info">
+                <p>Phone: +91 9763909863</p>
+                <p>Email: <a href="mailto:badalkodape@gmail.com">badalkodape@gmail.com</a></p>
+                <p>LinkedIn: <a href="https://www.linkedin.com/in/badal-k-b1a739208/" target="_blank">linkedin.com/in/badal-k-b1a739208</a></p>
+                <p>Website: <a href="https://badaldevops.online" target="_blank">badaldevops.online</a></p>
+            </div>
+        </header>
+        <section class="summary">
+            <h3>Summary</h3>
+            <p>Seasoned DevOps/AWS Engineer with a passion for leveraging cutting-edge technologies to drive operational excellence. Proven track record of leading cross-functional teams to achieve operational efficiency and reliability. Committed to continuous learning and professional growth in the rapidly evolving field of cloud computing.</p>
+        </section>
+        <section class="skills">
+            <h3>Technical Skills</h3>
+            <ul>
+                <li>Data Centers: AWS (Cloud), HDC (On-Prem)</li>
+                <li>Infrastructure as Code: Terraform</li>
+                <li>Containerization Platform: Docker</li>
+                <li>Source Management Tools: Git, GitHub</li>
+                <li>CI / CD Tool: Jenkins, GoCD</li>
+                <li>Monitoring Tools: Sysdig, Solarwinds, Prometheus</li>
+                <li>Configuration Management Tool: Ansible</li>
+                <li>Container Orchestration Tools: Kubernetes, ECS, EKS</li>
+                <li>Scripting Languages: Python, Bash</li>
+                <li>Ticketing Tool: Jira</li>
+                <li>Collaboration Tools: Slack, Skype</li>
+            </ul>
+        </section>
+        <section class="experience">
+            <h3>Experience</h3>
+            <ul>
+                <li>
+                    <strong>2022-03 - Current</strong> - R & D Operations Manager (DevOps Engineer) <br>
+                    Dassault Systèmes Solutions Lab Pvt. Ltd., Pune, India <br>
+                    <ul>
+                        <li>Leadership Skills: Led teams of up to 6 members, fostering collaboration and achieving project goals</li>
+                        <li>Efficiency Improvement: Designed and implemented Kubernetes clusters, boosting efficiency by 30%</li>
+                        <li>High Availability: Managed containerized applications with Kubernetes, maintaining 99.99% uptime</li>
+                        <li>Automation Expertise: Automated microservice deployments, cutting deployment time by 50%</li>
+                        <li>Monitoring Solutions: Spearheaded implementation of monitoring tools, reducing issue resolution time by 50%</li>
+                        <li>Reliability Enhancement: Implemented self-healing and auto-scaling features, enhancing system reliability</li>
+                        <li>Continuous Learning: Proactive in learning new technologies and tools to stay ahead</li>
+                        <li>AWS Proficiency: Experienced in AWS services including EC2, IAM, S3, ELB, auto scaling groups, and more</li>
+                        <li>Infrastructure Automation: Automated infrastructure tasks using AWS services, enhancing operational efficiency</li>
+                        <li>Monitoring Setup: Set up monitoring/Alerts using tools Sumologic, Sysdig, and SolarWinds for proactive management</li>
+                    </ul>
+                </li>
+                <li>
+                    <strong>2017-01 - 2022-02</strong> - Senior Software Engineer (DevOps / AWS Engineer) <br>
+                    Skylex Technologies Pvt. Ltd., Pune, India <br>
+                    <ul>
+                        <li>AWS Infrastructure Expertise: Proficient in designing, implementing, and maintaining AWS infrastructure, leveraging services such as EC2, EBS, S3, RDS, ROUTE53, and VPC</li>
+                        <li>Monitoring and Alerting: Implemented robust monitoring and alerting systems using CloudWatch and SNS for proactive management of production environments</li>
+                        <li>User Access Management: Managed user roles and permissions effectively using AWS IAM, ensuring secure access to resources</li>
+                        <li>CI/CD Implementation: Spearheaded build and release process using continuous integration and continuous delivery (CI/CD) systems, notably Jenkins, for efficient software delivery</li>
+                        <li>Configuration Management: Proficient in deploying applications and services on Linux servers using Ansible Configuration Management tool, ensuring consistency and reliability.</li>
+                    </ul>
+                </li>
+                <li>
+                    <strong>2013-11 - 2016-12</strong> - Software Engineer (AWS Engineer) <br>
+                    InboxOps System Pvt. Ltd., Pune, India <br>
+                    <ul>
+                        <li>AWS Architecture Design: Planned, designed, and implemented efficient AWS infrastructures tailored to organizational needs, covering virtual networks, storage solutions, databases, and compute resources</li>
+                        <li>Cloud Service Setup: Established and configured AWS services such as EC2, S3, and RDS, leading to 30% enhancement in application scalability and availability</li>
+                        <li>Security Implementation: Implemented and maintained robust security protocols across AWS services, including IAM roles, security groups, and VPC settings, ensuring data integrity and protection against threats</li>
+                        <li>Disaster Recovery Planning: Developed and executed disaster recovery strategies, incorporating backups and failover systems to ensure continuous data and system availability</li>
+                        <li>Performance Optimization: Monitored and optimized cloud performance, swiftly identifying and resolving performance bottlenecks, resulting in 25% increase in application response time</li>
+                        <li>Cost-saving Initiatives: Implemented cost-saving strategies for cloud services, such as reserved instances and spot instances, leading to 20% reduction in monthly cloud costs</li>
+                        <li>Monitoring and Logging: Implemented comprehensive monitoring and logging solutions utilizing tools like CloudWatch and CloudTrail, facilitating proactive response to issues and anomalies.</li>
+                    </ul>
+                </li>
+                <li>
+                    <strong>2011-11 - 2013-10</strong> - Software Engineer (Linux Support) <br>
+                    Faraji-e-Consulting Pvt. Ltd., Pune, India <br>
+                    <ul>
+                        <li>ISP Liaison: Effectively communicated with ISP support to troubleshoot and resolve email delivery issues, ensuring seamless communication for clients</li>
+                        <li>Client Support: Provided comprehensive support to mailers, addressing their needs including campaigns, statistics, data management, and periodic reporting, fostering client satisfaction</li>
+                        <li>Email Delivery Assurance: Ensured successful delivery of email newsletters and promotions through proficient use of PowerMTA, enhancing client marketing efforts</li>
+                        <li>Portal Management: Managed Negative Portal, Mail Processor, and various portals efficiently, maintaining smooth operations of client systems</li>
+                        <li>Server Administration: Installed, configured, and maintained Linux servers, including tasks scheduling, disk management, user administration, permissions setup, system monitoring, and backup, ensuring system reliability and security</li>
+                        <li>Procurement and Billing: Managed procurement process of servers from providers such as AWS, SoftLayer, BlackRock, and Kudos, and handled monthly billing, optimizing resource allocation and budget management.</li>
+                    </ul>
+                </li>
+            </ul>
+        </section>
+        <section class="education">
+            <h3>Education</h3>
+            <ul>
+                <li><strong>2010-06</strong> - Bachelor of Engineering: Computer Science <br> RCERT - Nagpur University</li>
+            </ul>
+        </section>
+        <section class="certifications">
+            <h3>Certifications</h3>
+            <ul>
+                <li><strong>2023-12</strong> - CKA (Certificate ID Number: LF-atc0akcaha)</li>
+            </ul>
+        </section>
+    </div>
+</body>
+</html>
